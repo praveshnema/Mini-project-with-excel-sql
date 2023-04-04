@@ -1,8 +1,8 @@
 
---database used
+-- database used
 use angloeasternproject;
 
---checking table data
+-- checking table data
 select top 50 * from shipsdata;
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
